@@ -6,7 +6,7 @@
     font-family: 'poppins';
 }
 body{
-    /* background-image: url("https://live-production.wcms.abc-cdn.net.au/dca3514a8e5cb9cc2383251214783018?impolicy=wcms_crop_resize&cropH=432&cropW=768&xPos=0&yPos=41&width=862&height=485"); */
+    
     background-size: cover;
     background-color: rgb(7, 137, 139);
 }
@@ -125,12 +125,7 @@ body{
    background-color: rgb(65, 64, 64);
    border-radius: 5px;
 }
-/* #days div i{
-   margin-top: 10px;
-   font-size: 28px;
-   margin-bottom: 5px;
-   color: orange;
-} */
+
 
 #icon
 {
